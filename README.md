@@ -32,7 +32,7 @@ REACT_APP_AWS_APPSYNC_API_KEY=<AWS_APPSYNC_API_KEY>
 
 1. Run `npm run build` to build the app for production. The build files will be generated in the `build` folder.
 
-## Approach and Functionality
+### Approach and Functionality
 
 This web application sends query request to GraphQL API hosted in AWS to retrieve the list of Zeller customers and displays the customers on UI based on their role(admin or manager). As the approach use react functional components with react hooks to ensure scalability and reusability.
 

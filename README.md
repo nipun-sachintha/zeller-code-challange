@@ -6,7 +6,7 @@ This application displays Zeller customers categorized by their user type.
 
 ### Prerequisites
 
-1. Node > v16 and < v20
+1. Node > v14 and < v20
 2. React v17 or above
 
 ### Running App in Development Mode

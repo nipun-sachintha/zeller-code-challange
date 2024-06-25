@@ -27,6 +27,7 @@ REACT_APP_AWS_APPSYNC_API_KEY=<AWS_APPSYNC_API_KEY>
 ### Run Tests
 
 1. Run `npm test` to execute the test runner in the interactive watch mode.
+2. Run `npx cypress open` to execute end to end test
 
 ### Build App for Production
 
